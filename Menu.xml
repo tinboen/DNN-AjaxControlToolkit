@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<menus>
+  <menu id="2" LinkLabel="Auto Complete" LinkPath="DNN_AjaxControlToolkit/AutoComplete.ascx" />
+  <menu id="3" LinkLabel="Cascading Drop Down" LinkPath="DNN_AjaxControlToolkit/CascadingDropDown.ascx" />
+  <menu id="1" LinkLabel="Calling Web Method" LinkPath="DNN_AjaxControlToolkit/CallingWebMethod.ascx" />
+</menus>
